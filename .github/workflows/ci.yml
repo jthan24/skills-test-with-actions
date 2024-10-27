@@ -30,3 +30,7 @@ jobs:
         with:
           name: remark-lint-report
           path: remark-lint-report.json
+      
+
+      - name: Add other step
+        run: echo "This is just a test for it"
